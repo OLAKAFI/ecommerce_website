@@ -1,0 +1,23 @@
+.right-image{
+    width: 100% !important;
+    height: 600px !important
+}
+
+.productdisplay-right-size div{
+    padding: 18px 24px;
+    background: #fbfbfb;
+    border: 1px solid #ebebeb;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.productdisplay-right-sizes button{
+    padding: 20px 40px;
+    width: 200px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background: #ff4141;
+    outline: none;
+    cursor: pointer;
+}
